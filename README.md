@@ -1,4 +1,4 @@
-# ☕ MoQA - Multi-type Open-domain Question Answering
+# ☕ MoQA: Multi-type Open-domain Question Answering
 
 ## Setup
 
