@@ -2,8 +2,9 @@
 
 ## Setup
 
+You can set up the virual environment using conda:
 ```
-pip install -r requirements.txt
+conda env create -f environment.yml
 ```
 
 ## Data 
