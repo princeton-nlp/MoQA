@@ -1,5 +1,7 @@
 # ☕ MoQA: Multi-type Open-domain Question Answering
 
+Check out our paper [here](https://openreview.net/forum?id=J2X2DpGKEh5)!
+
 ## Setup
 
 You can set up the virual environment using conda:
