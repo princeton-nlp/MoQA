@@ -1,6 +1,6 @@
 # ☕ MoQA: Multi-type Open-domain Question Answering
 
-Check out our paper [here](https://openreview.net/forum?id=J2X2DpGKEh5)!
+Check out our paper [here](https://aclanthology.org/2023.dialdoc-1.2/)!
 
 ## Setup
 
